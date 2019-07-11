@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SmartGPSTracker/Pods-SmartGPSTracker-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Cache/Cache.framework
+${BUILT_PRODUCTS_DIR}/CoreGPX/CoreGPX.framework
+${BUILT_PRODUCTS_DIR}/CryptoSwift/CryptoSwift.framework
